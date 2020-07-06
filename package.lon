@@ -1,0 +1,15 @@
+{
+    author = "LinaTsukusu",
+    name = "move",
+    description = "",
+    repository = "LinaTsukusu-CCOC/move",
+    version = "1.0.0",
+    files = {
+        "move.lua"
+    },
+    dependencies = {
+        "LinaTsukusu-CCOC/log4l",
+        "LinaTsukusu-CCOC/blocks",
+        "LinaTsukusu-CCOC/position",
+    },
+}
